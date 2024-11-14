@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-About Me
-======
+
 Hello and welcome to my site! My name is Siwen Wang (王思文), I am a computer science teacher at the international department of Qingdao Academy. Besides teaching regular AP computer science courses, I also designed and taught the world's first (to the best of my knowledge) Brain-Computer Interface curriculum to high schoolers. You can check out some of our work in the portfolio tab (under construction).
 Aside from my teaching career, I am also activately involved in doing research. Right now I am working with my former advisor Dr. Tzyy-Ping Jung on developing a next generation Large EEG model!
 If you were to look at my education path, I received all of my formal training in the field of engineering, but finally I chose a teaching career. This choice is mainly due to the memorable and loving experiences I had with my teachers at my high school Monterey Bay Academy. The four years there was the best part of my life. And I hope to pass my knowledge and life experience in the U.S. to more students in China so that they can be well-prepared mentally and intellectually before coming to the competitve new world in U.S. college. 
@@ -28,10 +27,10 @@ Education Background
 Course I teach/taught at Qingdao Academy & UCSD
 ======
 * AP Computer Science Principles
-* AP Computer Science A,
+* AP Computer Science A
 * Introduction to Brain-Computer Interface
 * USACO Algorithm Competition
-* Biosystems and Control, 
+* Biosystems and Control 
 
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
