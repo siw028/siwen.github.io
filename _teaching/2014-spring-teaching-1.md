@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "AP Computer Science Principles"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "AP Course"
+permalink: /teaching/2023-fall-teaching
+venue: "Qingdao Academy"
+date: 2023-2024
+location: "Qingdao,Shandong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Past Lecture Slides
 ======
+* [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/APCSP/Lecture/Digital_information.pptx)
 
-Heading 2
-======
-
-Heading 3
-======
