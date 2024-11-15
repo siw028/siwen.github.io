@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Brin-Computer Interface Applications"
+title: "Introduction to Brain-Computer Interface Applications"
 collection: teaching
 type: "Project and Research Oriented Course"
 permalink: /teaching/2015-spring-teaching-1
@@ -9,11 +9,3 @@ location: "Qingdao,Shandong"
 ---
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
