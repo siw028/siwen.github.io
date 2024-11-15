@@ -18,4 +18,10 @@ Past Lecture Slides
 * [Lecture 5 Signal Processing Part II](https://siw028.github.io/siwen.github.io/files/BCI/Signal_processing_partII.pptx)
 * [Lecture 6 Machine Learning](https://siw028.github.io/siwen.github.io/files/BCI/Lecture6_machineLearning.pptx)
 
+Past Projects
+======
+* EMG Speller 
+    * Team Member: Charlotte Tang, Tingrui Sun, Valentino Cui, Bobby Chen
+    * [Github Repo](https://github.com/QABCI/EMG-Speller-)    [Paper(in Chinese)](https://siw028.github.io/siwen.github.io/files/BCI/EMG_speller.pdf)          [Video](https://www.bilibili.com/video/BV1dW421F7yK/?spm_id_from=333.337.search-card.all.click)
+
 
