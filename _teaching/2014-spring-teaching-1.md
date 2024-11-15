@@ -7,10 +7,9 @@ venue: "Qingdao Academy"
 date: 2023-09-01
 location: "Qingdao,Shandong"
 ---
-* Importance Notes about using the lecture slides: 
 
 Past Lecture Slides
 ======
-* [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/Digital_information.pptx)
+* [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/APCSP/Lecture/Digital_information.pptx)
 
 
