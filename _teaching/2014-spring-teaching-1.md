@@ -2,7 +2,7 @@
 title: "AP Computer Science Principles"
 collection: teaching
 type: "AP Course"
-permalink: /teaching/2023-fall-teaching
+permalink: /teaching/2014-spring-teaching-1
 venue: "Qingdao Academy"
 date: 2023-2024
 location: "Qingdao,Shandong"
@@ -11,6 +11,6 @@ location: "Qingdao,Shandong"
 
 Past Lecture Slides
 ======
-<!-- * [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/Digital_information.pptx) -->
+* [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/Digital_information.pptx)
 
 

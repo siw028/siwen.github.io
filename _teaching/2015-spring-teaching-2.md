@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Brin-Computer Interface Applications"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
