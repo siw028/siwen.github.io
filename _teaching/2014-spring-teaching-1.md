@@ -31,7 +31,7 @@ Past Final Projects
     * Team Member: Jacques Jiao
     * [Paper](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Jacques_paper.pdf)        [Presentation](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Jacques_slides.pptx)
 
-* Micro-Scale Logic Gates in Computers - building a half adder with transistors
+* MNIST Handwritten Digit Classification with Convolutional Neural Network
     * Team Member: Charlotte Tang, Austin Wang
     * [Paper](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Charlott_Austin_paper.pdf)        Presentation
 

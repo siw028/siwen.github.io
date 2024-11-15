@@ -8,4 +8,14 @@ date: 2023-02-10
 location: "Qingdao,Shandong"
 ---
 
+Past Lecture Slides
+======
+* [Lecture 0 Introduction to Common BCI Applications](https://siw028.github.io/siwen.github.io/files/BCI/Lecture0_Introduction.pptx)
+* [Lecture 1 Introduction to Computers and Programming Languages](https://siw028.github.io/siwen.github.io/files/BCI/Lecture1.pptx)
+* [Lecture 2 Basic Neuroscience](https://siw028.github.io/siwen.github.io/files/BCI/Lecture2_basic_neuroscience.pptx)
+* [Lecture 3 Recording Techniques](https://siw028.github.io/siwen.github.io/files/BCI/Recording_technique.pptx)
+* [Lecture 4 Signal Processing Part I](https://siw028.github.io/siwen.github.io/files/BCI/Signal_processing.pptx)
+* [Lecture 5 Signal Processing Part II](https://siw028.github.io/siwen.github.io/files/BCI/Signal_processing_partII.pptx)
+* [Lecture 6 Machine Learning](https://siw028.github.io/siwen.github.io/files/BCI/Lecture6_machineLearning.pptx)
+
 
