@@ -1,0 +1,19 @@
+---
+title: "Introduction to Brin-Computer Interface Applications"
+collection: teaching
+type: "Project and Research Oriented Course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Qingdao Academy"
+date: 2024
+location: "Qingdao,Shandong"
+---
+
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
