@@ -1,7 +1,7 @@
 ---
-title: "AP Computer Science A"
+title: "USACO Algorithm Competition"
 collection: teaching
-type: "AP Course"
+type: "Algorithm Competition Preparation"
 permalink: /teaching
 venue: "Qingdao Academy"
 date: 2024-09-01
