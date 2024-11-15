@@ -22,6 +22,9 @@ Past Projects
 ======
 * EMG Speller 
     * Team Member: Charlotte Tang, Tingrui Sun, Valentino Cui, Bobby Chen
-    * [Github Repo](https://github.com/QABCI/EMG-Speller-)    [Paper(in Chinese)](https://siw028.github.io/siwen.github.io/files/BCI/EMG_speller.pdf)          [Video](https://www.bilibili.com/video/BV1dW421F7yK/?spm_id_from=333.337.search-card.all.click)
+    * [Github Repo](https://github.com/QABCI/EMG-Speller-) &nbsp; &nbsp; [Paper(in Chinese)](https://siw028.github.io/siwen.github.io/files/BCI/EMG_speller.pdf)&nbsp;&nbsp;[Video](https://www.bilibili.com/video/BV1dW421F7yK/?spm_id_from=333.337.search-card.all.click)
+* EMG GoogleDinoGame
+    * Team Member: Tingrui Sun, Charlotte Tang, Bobby Chen, Valentino Cui
+    * [Github Repo](https://github.com/QABCI/EMG-GoogleDinoGame)&nbsp;&nbsp;[Video](https://www.bilibili.com/video/BV1yz421Q7Di/?spm_id_from=333.788.recommend_more_video.-1)
 
 
