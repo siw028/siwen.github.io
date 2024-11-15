@@ -23,10 +23,10 @@ Past Lecture Slides
 
 Past Final Projects
 ======
-* Convolutional Neural Network Case Study - Binary Classificaiotn of Cats and Dogs 
- * Team Members: Eric Zhuang, Kan Zhang
- * [Paper](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Eric_kan_paper.pdf)
- * [Presentation](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Eric_kan_slides.pdf)
+* Convolutional Neural Network Case Study - Binary Classification of Cats and Dogs 
+    * Team Members: Eric Zhuang, Kan Zhang
+    * [Paper](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Eric_kan_paper.pdf) [Presentation](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Eric_kan_slides.pdf)
+ 
 * Micro-Scale Logic Gates in Computers - building a half adder with transistors
  * Team Member: Jacques Jiao
  * [Paper](https://siw028.github.io/siwen.github.io/files/APCSP/Final_presentation/Jacques_paper.pdf)
