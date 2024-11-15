@@ -4,7 +4,7 @@ collection: teaching
 type: "AP Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Qingdao Academy"
-date: 2023
+date: 2023-09-01
 location: "Qingdao,Shandong"
 ---
 * Importance Notes about using the lecture slides: 
