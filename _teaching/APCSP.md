@@ -4,7 +4,7 @@ collection: teaching
 type: "AP Course"
 permalink: /teaching/APCSP
 venue: "Qingdao Academy"
-date: 2023-09-01
+date: 2024-11-14
 location: "Qingdao,Shandong"
 ---
 Course Description

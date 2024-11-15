@@ -4,7 +4,7 @@ collection: teaching
 type: "Algorithm Competition Preparation"
 permalink: /teaching/USACO
 venue: "Qingdao Academy"
-date: 2024-09-01
+date: 2024-10-01
 location: "Qingdao,Shandong"
 ---
 

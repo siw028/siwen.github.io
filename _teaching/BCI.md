@@ -4,7 +4,7 @@ collection: teaching
 type: "Project and Research Oriented Course"
 permalink: /teaching/BCI
 venue: "Qingdao Academy"
-date: 2024-02-10
+date: 2024-11-15
 location: "Qingdao,Shandong"
 ---
 Course Description:
