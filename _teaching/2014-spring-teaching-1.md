@@ -7,6 +7,9 @@ venue: "Qingdao Academy"
 date: 2023-09-01
 location: "Qingdao,Shandong"
 ---
+Course Description
+======
+AP Computer Science Principles is a hands-on course where you’ll dive into the world of coding, data, and digital innovation. You'll learn how apps and websites are built, how data drives decisions, and how the internet connects us all. Along the way, we’ll tackle real-world problems, explore the impact of technology on society, and maybe even create some cool projects of your own. Think of it as your guide to understanding the tech shaping our world—no prior experience needed, just curiosity and a willingness to explore!
 
 Lecture Slides
 ======

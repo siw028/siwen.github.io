@@ -4,9 +4,12 @@ collection: teaching
 type: "Project and Research Oriented Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Qingdao Academy"
-date: 2023-02-10
+date: 2024-02-10
 location: "Qingdao,Shandong"
 ---
+Course Description:
+======
+How close are we to controlling everything with our "thoughts"? Is the full-dive technology depicted in the anime Sword Art Online achievable in reality? What exactly is Elon Musk’s company, Neuralink, researching? In this class, we’ll explore Brain-Computer Interface (BCI) technology from a scientific and engineering perspective. Starting with neuroscience, we’ll gradually move on to learn common engineering techniques such as signal processing and machine learning. We’ll collect and process EEG data hands-on, read and discuss the latest advancements in academia and industry, and ultimately aim to create a simple BCI system. 
 
 Lecture Slides
 ======
