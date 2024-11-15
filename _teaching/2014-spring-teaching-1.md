@@ -11,6 +11,6 @@ location: "Qingdao,Shandong"
 
 Past Lecture Slides
 ======
-* [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/Digital_information.pptx)
+<!-- * [Unit 1 Digital Information](https://siw028.github.io/siwen.github.io/files/Digital_information.pptx) -->
 
 
