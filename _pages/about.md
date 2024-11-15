@@ -32,7 +32,7 @@ Course I teach/taught at Qingdao Academy & UCSD
 * AP Computer Science A
 * Introduction to Brain-Computer Interface
 * USACO Algorithm Competition
-* Biosystems and Control 
+* Biosystems and Control, BENG 122A
 
 Past Research Experience and Affiliation 
 ======
