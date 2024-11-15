@@ -33,5 +33,11 @@ Projects
     * Team Member: Tingrui Sun, Charlotte Tang, Bobby Chen, Valentino Cui
     * [Github Repo](https://github.com/QABCI/EMG-GoogleDinoGame)&nbsp;&nbsp;[Video](https://www.bilibili.com/video/BV1yz421Q7Di/?spm_id_from=333.788.recommend_more_video.-1)
 
+Alumni 
+======
+* Coco Xu, UC Berkeley 
+* Aether Cui, National University of Singapore 
+* Julia Deng
+
 
 
