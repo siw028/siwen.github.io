@@ -21,39 +21,29 @@ This section will be updated with content about:
 
 You can find my presentations and slides related to AI in Education below:
 
-<div class="presentation-list">
+<ul class="presentation-list">
 {% for file in site.static_files %}
   {% if file.path contains 'files/AI-Education' %}
-    <div class="presentation-item">
-      <a href="{{ file.path | relative_url }}" target="_blank" class="presentation-link">
+    <li>
+      <a href="{{ site.baseurl }}{{ file.path }}" target="_blank">
         {{ file.basename }} 
-        <span class="file-type">[{{ file.extname | remove: '.' | upcase }}]</span>
+        <small>[{{ file.extname | remove: '.' | upcase }}]</small>
       </a>
-    </div>
+    </li>
   {% endif %}
 {% endfor %}
-</div>
+</ul>
 
 <style>
 .presentation-list {
-  margin: 20px 0;
+  list-style: none;
+  padding-left: 0;
 }
-.presentation-item {
-  margin-bottom: 15px;
+.presentation-list li {
+  margin-bottom: 10px;
 }
-.presentation-link {
-  text-decoration: none;
-  color: #0366d6;
-  display: inline-block;
-  padding: 5px 0;
-}
-.presentation-link:hover {
-  text-decoration: underline;
-}
-.file-type {
+.presentation-list small {
   color: #666;
-  font-size: 0.9em;
-  margin-left: 5px;
 }
 </style>
 
