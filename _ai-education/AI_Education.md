@@ -3,7 +3,6 @@ title: "AI + Education Tool and Practice"
 collection: ai-education
 type: "Research"
 permalink: /ai-education/
-venue: "Education Technology"
 date: 2024-03-20
 location: "Qingdao,Shandong"
 ---
@@ -27,18 +26,18 @@ This resource is particularly valuable for teachers from non-technical backgroun
 
 📄 [AI + Education (PDF)](https://siw028.github.io/siwen.github.io/files/AI+Education/AI+Education.pdf)
 
-### Resource 2: Practical LLM Applications in Teaching
+### Resource 2: Practical LLM Applications
 
 A curated summary based on Andrej Karpathy's "How I use LLMs" talk, adapted specifically for AP curriculum teachers. This presentation includes:
-* Practical prompting techniques
+* General ways to use LLMs
 * Creating review guides for students
 * Additional applications in education
 
-Recommended for educators who have basic LLM experience but want to explore advanced applications.
+Recommended for educators (or just anyone in general) who have basic LLM experience but want to explore advanced applications.
 
 📄 [How to Use LLMs (PDF)](https://siw028.github.io/siwen.github.io/files/AI+Education/How to Use LLMs.pdf)
 
-> **Note:** For a deeper understanding, I highly recommend watching the original 2-hour video by Andrej Karpathy. It's a valuable resource where an accomplished researcher shares his knowledge freely and accessibly.
+> **Note:** For a deeper understanding, I highly recommend watching the original 2-hour video by Andrej Karpathy. It's a blessing to everyone where an accomplished researcher shares his knowledge freely and accessibly.
 
 
 
