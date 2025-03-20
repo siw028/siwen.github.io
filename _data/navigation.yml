@@ -16,7 +16,6 @@ main:
     
   - title: "AI+Education"
     url: /ai-education/
-    rel: external
         
   # - title: "Portfolio"
   #   url: /portfolio/

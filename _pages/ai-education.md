@@ -3,8 +3,6 @@ title: "AI+Education"
 permalink: /ai-education/
 layout: single
 classes: wide
-nav: true
-nav_order: 3
 ---
 
 Welcome to the AI+Education section! This page will showcase my work and insights in the intersection of artificial intelligence and education.
