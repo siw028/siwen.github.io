@@ -14,6 +14,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "AI+Education"
+    url: /ai-education/
+        
   # - title: "Portfolio"
   #   url: /portfolio/
         
