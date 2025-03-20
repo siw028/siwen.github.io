@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Siwen"
 description              : &description "personal description"
 url                      : https://siw028.github.io/siwen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/siwen.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siw028/siwen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

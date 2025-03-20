@@ -25,7 +25,7 @@ You can find my presentations and slides related to AI in Education below:
 {% for file in site.static_files %}
   {% if file.path contains 'files/AI-Education' %}
     <div class="presentation-item">
-      <a href="{{ site.baseurl }}/{{ file.path }}" target="_blank" class="presentation-link">
+      <a href="{{ file.path | relative_url }}" target="_blank" class="presentation-link">
         {{ file.basename }} 
         <span class="file-type">[{{ file.extname | remove: '.' | upcase }}]</span>
       </a>
