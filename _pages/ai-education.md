@@ -19,30 +19,10 @@ This section will be updated with content about:
 
 You can find my presentations and slides related to AI in Education below:
 
-<ul class="presentation-list">
 {% for file in site.static_files %}
   {% if file.path contains 'files/AI-Education' %}
-    <li>
-      <a href="{{ site.baseurl }}{{ file.path }}" target="_blank">
-        {{ file.basename }} 
-        <small>[{{ file.extname | remove: '.' | upcase }}]</small>
-      </a>
-    </li>
+    - [{{ file.name }}]({{ file.path | relative_url }})
   {% endif %}
 {% endfor %}
-</ul>
-
-<style>
-.presentation-list {
-  list-style: none;
-  padding-left: 0;
-}
-.presentation-list li {
-  margin-bottom: 10px;
-}
-.presentation-list small {
-  color: #666;
-}
-</style>
 
 Stay tuned for more content! 
