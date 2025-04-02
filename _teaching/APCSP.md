@@ -22,6 +22,14 @@ Lecture Slides
 * [Unit 7 Online Data Security](https://siw028.github.io/siwen.github.io/files/APCSP/Lecture/Chapter7.pptx)
 * [Unit 8 Computing Innovation](https://siw028.github.io/siwen.github.io/files/APCSP/Lecture/Chapter8.pptx)
 
+Creative Performance Task
+======
+* [Official Task Direction from Collegeboard](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/ap-csp-student-task-directions.pdf)
+* [FRQ Practice 1](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Sample_WR_questions.pdf)
+* [Common Mistakes and Feedback](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/FRQ_Common_Question_and_Feedback.pptx)
+* [FRQ Practice 2](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Sample_WR_questions2.pdf)
+
+
 
 
 Final Projects

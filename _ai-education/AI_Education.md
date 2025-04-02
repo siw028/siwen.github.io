@@ -1,5 +1,5 @@
 ---
-title: "AI + Education Tool and Practice"
+title: "AI + Education Tools and Practice"
 collection: ai-education
 type: "Research"
 permalink: /ai-education/
