@@ -4,7 +4,7 @@ collection: teaching
 type: "AP Course"
 permalink: /teaching/APCSA
 venue: "Qingdao Academy"
-date: 2024-09-01
+date: 2025-09-01
 location: "Qingdao,Shandong"
 ---
 
@@ -28,6 +28,13 @@ Lecture Slides
 ======
 * [Unit 1 Primitive Types](https://siw028.github.io/siwen.github.io/files/APCSA/Unit1.pptx)
 * [Unit 2 Using Objects](https://siw028.github.io/siwen.github.io/files/APCSA/Unit2.pptx)
+* [Unit 3 Boolean Expression and if Statements](https://siw028.github.io/siwen.github.io/files/APCSA/Unit3.pptx)
+* [Unit 4 Iteration](https://siw028.github.io/siwen.github.io/files/APCSA/Unit4.pptx)
+* [Unit 5 Writing Classes](https://siw028.github.io/siwen.github.io/files/APCSA/Unit5.pptx)
+* [Unit 6 Array](https://siw028.github.io/siwen.github.io/files/APCSA/Unit6.pptx)
+* [Unit 7 ArrayList](https://siw028.github.io/siwen.github.io/files/APCSA/Unit7.pptx)
+* [Unit 8 2D Array](https://siw028.github.io/siwen.github.io/files/APCSA/Unit8.pptx)
+
 
  
 
