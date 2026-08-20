@@ -25,9 +25,12 @@ Lecture Slides
 Creative Performance Task
 ======
 * [Official Task Direction from Collegeboard](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/ap-csp-student-task-directions.pdf)
-* [FRQ Practice 1](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Sample_WR_questions.pdf)
-* [Common Mistakes and Feedback](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/FRQ_Common_Question_and_Feedback.pptx)
-* [FRQ Practice 2](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Sample_WR_questions2.pdf)
+* [FRQ Practice 1](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set1.pdf)
+* [FRQ Practice 2](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set2.pdf)
+* [FRQ Practice 3](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set3.pdf)
+* [FRQ Practice 4](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set4.pdf)
+* [FRQ Practice 5](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set5.pdf)
+* [FRQ Practice 6](https://siw028.github.io/siwen.github.io/files/APCSP/creative_task/Set6.pdf)
 
 
 
